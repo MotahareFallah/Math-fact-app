@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "JeanSunHo";
+  src: url("font/JeanSunHoBold.ttf");
+}
+body {
+  background-image: url("image/1.jfif");
+}
+
+h1 {
+  font-family: "JeanSunHo";
+  color: rgb(49, 174, 205);
+  background-color: #f7f9f9;
+  font-weight: bolder;
+}
+.button {
+  font-family: "JeanSunHo";
+  color: rgb(19, 42, 48);
+  cursor: pointer;
+  font-size: 25px;
+}
